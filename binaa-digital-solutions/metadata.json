@@ -1,6 +1,0 @@
-{
-  "name": "Binaa Digital Solutions",
-  "description": "بناء للحلول الرقمية - منصة رقمية سعودية رائدة تقدم حلول الويب الحديثة، الذكاء الاصطناعي، لوحات التحكم وقواعد البيانات.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
